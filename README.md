@@ -1,4 +1,4 @@
 game-of-life
 ============
 
-This is the game of life (Conway, Von Neumann), from a SUPINFO homework subject
+This is the game of life (Conway, Moore, Von Neumann)
